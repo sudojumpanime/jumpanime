@@ -33,12 +33,6 @@
 - **Your choice on adult titles.** They are shown by default, and one switch in Settings hides them.
 - **Updates inside the app.** JumpAnime tells you when a new version is out.
 
-## Screenshots
-
-<p align="center">
-  <img src="assets/detail.png" alt="Anime page" width="280">
-</p>
-
 ## Install
 
 1. Open the [latest release](https://github.com/sudojumpanime/jumpanime/releases/latest) on your phone.
