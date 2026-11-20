@@ -34,7 +34,7 @@
 - **Sub and dub.** Choose the audio you want per episode.
 - **Downloads.** Save episodes to watch offline, in the quality you pick. There is an optional *Fast downloads* mode and a Wi-Fi-only switch.
 - **Comments.** Talk about each anime with other viewers.
-- **Your choice on adult titles.** They are shown by default, and one switch in Settings hides them.
+- **Includes titles AniList marks as mature, such as ecchi series.** They are shown by default, and one switch in Settings hides them.
 - **Updates inside the app.** JumpAnime tells you when a new version is out.
 
 ## Screenshots
