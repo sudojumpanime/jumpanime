@@ -19,6 +19,10 @@
   <a href="https://github.com/sudojumpanime/jumpanime/releases/latest"><b>⬇ Download the latest APK</b></a>
 </p>
 
+<p align="center">
+  <img src="assets/hero.png" alt="JumpAnime screens: Home, Discover, anime page and Library" width="100%">
+</p>
+
 ---
 
 ## Features
@@ -32,6 +36,15 @@
 - **Comments.** Talk about each anime with other viewers.
 - **Your choice on adult titles.** They are shown by default, and one switch in Settings hides them.
 - **Updates inside the app.** JumpAnime tells you when a new version is out.
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/phone-schedule.png" width="23%" alt="Airing schedule">
+  <img src="assets/phone-download.png" width="23%" alt="Download episodes">
+  <img src="assets/phone-settings.png" width="23%" alt="Settings">
+  <img src="assets/phone-home.png" width="23%" alt="Home">
+</p>
 
 ## Install
 
@@ -58,4 +71,4 @@ Needs Android 8.0 or newer.
 Made by **Justadapting** ([@justadapting](https://instagram.com/justadapting)).
 Anime data and your lists come from [AniList](https://anilist.co). JumpAnime is not affiliated with or endorsed by AniList.
 
-<sub>Parts of JumpAnime use open-source libraries under the Apache License 2.0. A list is available inside the app under *Settings → App Info → Open-source licenses*.</sub>
+<sub>Parts of JumpAnime use open-source libraries under the Apache License 2.0.</sub>
